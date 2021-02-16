@@ -2,7 +2,7 @@
 
 This is repository for pytorch deep learning base model.
 
-## Pytorch installation
+## pytorch installation
 
 ```conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch```
 
