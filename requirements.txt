@@ -1,0 +1,15 @@
+certifi==2020.12.5
+greenlet==0.4.16
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+msgpack==1.0.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603570489231/work
+olefile==0.46
+Pillow @ file:///tmp/build/80754af9/pillow_1609786786540/work
+pynvim==0.4.1
+six @ file:///tmp/build/80754af9/six_1605205327372/work
+torch==1.7.1
+torchaudio==0.7.0a0+a853dff
+torchvision==0.8.2
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
